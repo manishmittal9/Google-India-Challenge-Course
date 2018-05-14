@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I've revised my basic concepts of HTML & learned about a couple of new HTML elements such as <strike></strike>, <hr>, etc. 
+* HTML is.
+* Nothing difficult so far.
+* The Mockup Article project helped me visualise the structure of the web pages we see everyday on the net. 
